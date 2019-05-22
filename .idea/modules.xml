@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ContractModule/.idea/modules/contractmodule.iml" filepath="$PROJECT_DIR$/../ContractModule/.idea/modules/contractmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ContractModule/.idea/modules/contractmodule-build.iml" filepath="$PROJECT_DIR$/../ContractModule/.idea/modules/contractmodule-build.iml" />
+    </modules>
+  </component>
+</project>
